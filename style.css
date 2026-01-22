@@ -1,0 +1,50 @@
+.collage {position: absolute;
+top: 10px;
+left: 10px;}
+
+#pink{text-emphasis-color: initial;}    
+
+p{
+font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.CropContainer {
+position: relative;
+overflow: hidden;
+}
+
+.pink 
+{color: pink;}
+
+.center {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+.container{
+    width:100vw;
+    height:200px;
+    position:relative;
+}
+
+ .container {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(133, 236, 217);
+    }
+
+.display-exp{
+    display: flex;
+}
+
+.display-exp div{
+    flex:1;
+    padding: 20p x;
+}
+
+.display-exp-gap{
+    display: flex;
+    gap: 10px;
+    
+}
